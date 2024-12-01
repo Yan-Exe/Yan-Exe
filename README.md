@@ -4,7 +4,6 @@
 </h1>
 
 <h4 align="center">👋 Olá! Bem vindo ao meu Github.</h4>
-<br>
 
 <hr style="height: 2px; border: none; background-color: white; box-shadow: 0 4px 8px gray;">
 <br>
