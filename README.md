@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Yan-Exe/Yan-Exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sou+Yan+Patrick;Desenvolvedor+Junior&color=FFFFFF;" />
+</h1>
 
-Here are some ideas to get you started:
+<h4 align="center">👋 Olá! Bem vindo ao meu Github.</h4>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr style="height: 2px; border: none; background-color: white; box-shadow: 0 4px 8px gray;">
+<br>
+<h5 align="center">Formado em Analise e Desenvolvimento de Sistemas</h5>
+<h5 align="center">Meu portfólio se encontra em <a href="https://portfolio-yan-exes-projects.vercel.app"> Portfólio</a></h5>
+<h5 align="center">Atualmente focado no estudo de React e Spring Boot</h5>
+<br>
+<hr style="height: 1px; border: none; background-color: white; box-shadow: 0 4px 8px gray;">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,spring,flutter,java,html,css,js" />
+  </a>
+</p>
