@@ -6,12 +6,11 @@
 <h4 align="center">👋 Olá! Bem vindo ao meu Github.</h4>
 
 <hr style="height: 2px; border: none; background-color: white; box-shadow: 0 4px 8px gray;">
-<br>
 <h5 align="center">Formado em Analise e Desenvolvimento de Sistemas</h5>
 <h5 align="center">Meu portfólio se encontra em <a href="https://portfolio-yan-exes-projects.vercel.app"> Portfólio</a></h5>
 <h5 align="center">Atualmente focado no estudo de React e Spring Boot</h5>
 <br>
-<hr style="height: 1px; border: none; background-color: white; box-shadow: 0 4px 8px gray;">
+<hr style="height: 0.5px; border: none; background-color: white; box-shadow: 0 4px 8px gray;">
 
 <p align="center">
   <a href="https://skillicons.dev">
